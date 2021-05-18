@@ -274,7 +274,7 @@ function start() {
         somExplosao.play();
 
         $("#fundoGame").append("<div id='explosao1'></div");
-        $("#explosao1").css("background-image", "url(img/explosao.png)");
+        $("#explosao1").css("background-image", "url(imagens/explosao.png)");
         
         var div = $("#explosao1");
         
@@ -297,7 +297,7 @@ function start() {
         somExplosao.play();
         
         $("#fundoGame").append("<div id='explosao2'></div");
-        $("#explosao2").css("background-image", "url(img/explosao.png)");
+        $("#explosao2").css("background-image", "url(imagens/explosao.png)");
     
         var div2=$("#explosao2");
     
@@ -374,22 +374,22 @@ function start() {
     {
         if (energiaAtual == 3) 
         {
-            $("#energia").css("background-image", "url(img/energia3.png)");
+            $("#energia").css("background-image", "url(imagens/energia3.png)");
         }
 
         if (energiaAtual == 2) 
         {
-            $("#energia").css("background-image", "url(img/energia2.png)");
+            $("#energia").css("background-image", "url(imagens/energia2.png)");
         }
 
         if (energiaAtual == 1) 
         {    
-            $("#energia").css("background-image", "url(img/energia1.png)");
+            $("#energia").css("background-image", "url(imagens/energia1.png)");
         }
 
         if (energiaAtual == 0) 
         {    
-            $("#energia").css("background-image", "url(img/energia0.png)");   
+            $("#energia").css("background-image", "url(imagens/energia0.png)");   
             
             
             gameOver()

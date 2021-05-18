@@ -91,7 +91,7 @@ ul {
 }
 
 .anima1 {
-	background-image: url(../img/helicoptero.png);
+	background-image: url(imagens/icon.png);
     animation: play .5s steps(2) infinite;
     -webkit-animation: play .5s steps(2) infinite;
     -moz-animation: play .5s steps(2) infinite;
@@ -127,7 +127,7 @@ ul {
 
 .anima2 
 {
-    background-image:url(../img/inimigo1.png);
+    background-image:url(imagens/inimigo1.png);
     animation: play .5s steps(2) infinite;
     -webkit-animation: play .5s steps(2) infinite;
     -moz-animation: play .5s steps(2) infinite;
@@ -136,7 +136,7 @@ ul {
 }
 
 .anima3 {
-	background-image:url(../img/amigo.png);
+	background-image:url(imagens/inimigo2.png);
 	animation:play2 .9s steps(12) infinite;
     -webkit-animation: play2 .9s steps(12) infinite;
     -moz-animation: play2 .9s steps(12) infinite;
@@ -173,7 +173,7 @@ ul {
 	width: 50px;
 	height: 8px;
 	position: absolute;
-	background-image: url(../img/disparo.png);
+	background-image: url(imagens/disparo.png);
 }
 
 #explosao1 {
@@ -197,7 +197,7 @@ ul {
 .anima4 {
 	width: 44px;
 	height: 51px;
-	background-image: url(../img/amigo_morte.png);
+	background-image: url(imagens/amigo_morte.png);
 	animation: play3 .5s steps(7) infinite;
 	-webkit-animation: play3 .5s steps(7) infinite;
 	-moz-animation: play3 .5s steps(7) infinite;
