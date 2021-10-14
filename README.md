@@ -1,5 +1,6 @@
 # resgate_game
 ## Resgate - game de naves
+https://biancaamiranda.github.io/resgate_game/
 ![Captura de tela de 2021-06-16 09-18-32](https://user-images.githubusercontent.com/78173189/122217970-4eeb9900-ce84-11eb-9d1b-94ac42634bb0.png)
 ![Captura de tela de 2021-06-16 09-19-37](https://user-images.githubusercontent.com/78173189/122217974-501cc600-ce84-11eb-8637-9f5832e4e1c1.png)
 ![Captura de tela de 2021-06-16 09-19-41](https://user-images.githubusercontent.com/78173189/122217979-50b55c80-ce84-11eb-9855-b6824235d690.png)
